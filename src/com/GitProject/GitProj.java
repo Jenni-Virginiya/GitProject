@@ -7,6 +7,10 @@ public class GitProj {
 		
 		// Modification after stash
 
+		// Modification 1
+		
+		// Modification 2
+
 	}
 
 }
